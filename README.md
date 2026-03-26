@@ -50,14 +50,14 @@ Other:
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/car-dealership.git
-cd car-dealership
+- git clone https://github.com/your-username/car-dealership.git
+- cd car-dealership
 
 ---
 
 ### 2. Backend Setup
-cd backend
-npm install
+- cd backend
+- npm install
 
 Create .env file:
 
@@ -69,7 +69,7 @@ IMAGEKIT_PRIVATE_KEY=your_key
 IMAGEKIT_URL_ENDPOINT=your_url
 
 Run backend:
-npm start
+- npm start
 
 ---
 
