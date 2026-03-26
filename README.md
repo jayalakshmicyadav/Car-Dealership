@@ -126,5 +126,5 @@ npm start
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/your-username
+Jayalakshmi C 
+GitHub: https://github.com/jayalakshmicyadav
